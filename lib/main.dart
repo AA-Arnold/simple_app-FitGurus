@@ -11,7 +11,7 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'Flutter Demo',
+      title: 'FitGurus',
       home: Scaffold(
         backgroundColor: const Color(0xff2B9CF2),
         body: Column(
